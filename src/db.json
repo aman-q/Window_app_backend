@@ -1,0 +1,53 @@
+{
+  "submissions": [
+    {
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "github_link": "https://github.com/johndoe",
+      "stopwatch_time": 1234
+    },
+    {
+      "name": "Doe",
+      "email": "doe@example.com",
+      "phone": "1234567890",
+      "github_link": "https://github.com/doe",
+      "stopwatch_time": 1234
+    },
+    {
+      "name": "Demo1",
+      "email": "demo1@example.com",
+      "phone": "7257830841",
+      "github_link": "https://github.com/doe",
+      "stopwatch_time": 1234
+    },
+    {
+      "name": "Demo2",
+      "email": "demo2@example.com",
+      "phone": "7257830811",
+      "github_link": "https://github.com/doe",
+      "stopwatch_time": 124
+    },
+    {
+      "name": "Demo2",
+      "email": "demo2@example.com",
+      "phone": "7257830811",
+      "github_link": "https://github.com/doe",
+      "stopwatch_time": 12
+    },
+    {
+      "name": "aman",
+      "email": "aman11@gmail.com",
+      "phone": "7788994455",
+      "github_link": "https://github.com/do",
+      "stopwatch_time": 10
+    },
+    {
+      "name": "Demo 4",
+      "email": "demo4@gmail.com",
+      "phone": "4561233216",
+      "github_link": "https://github.com/doe",
+      "stopwatch_time": 52
+    }
+  ]
+}

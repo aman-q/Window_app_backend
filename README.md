@@ -23,7 +23,7 @@ Ensure you have the following installed on your development machine:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/aman-q/Window_app_backend.git
+    https://github.com/aman-q/Window_app_backend.git
     ```
 
 2. Navigate into the project directory:

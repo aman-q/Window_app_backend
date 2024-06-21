@@ -7,9 +7,7 @@ This project is an Express backend server written in TypeScript. It is set up wi
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Running the Server](#running-the-server)
-- [Project Structure](#project-structure)
-- [Available Scripts](#available-scripts)
-- [License](#license)
+
 
 ## Prerequisites
 

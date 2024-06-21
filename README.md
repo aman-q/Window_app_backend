@@ -46,40 +46,5 @@ To start the server in development mode, simply run:
 npm start
 ```
 
-Project Structure
-Here is an overview of the project's structure:
-Window_app_backend/
-│
-├── src/
-│   ├── controllers/
-│   ├── middlewares/
-│   ├── models/
-│   ├── routes/
-│   └── index.ts
-│
-├── node_modules/
-│
-├── .gitignore
-├── package.json
-├── README.md
-├── tsconfig.json
-└── tslint.json
 
 
-
-
-src/: Contains all TypeScript source files.
-controllers/: Controllers to handle incoming requests.
-middlewares/: Middleware functions for the Express server.
-models/: Data models.
-routes/: Route definitions.
-index.ts: Entry point to start the server.
-.gitignore: Specifies which files to ignore in the git repository.
-package.json: Manages project dependencies and scripts.
-README.md: Project documentation.
-tsconfig.json: TypeScript compiler configuration.
-tslint.json: Linter configuration for TypeScript.
-Available Scripts
-In the project directory, you can run:
-
-npm start: Starts the server.

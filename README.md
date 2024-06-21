@@ -48,9 +48,6 @@ npm start
 
 Project Structure
 Here is an overview of the project's structure:
-
-
-Copy code
 Window_app_backend/
 │
 ├── src/
@@ -67,6 +64,10 @@ Window_app_backend/
 ├── README.md
 ├── tsconfig.json
 └── tslint.json
+
+
+
+
 src/: Contains all TypeScript source files.
 controllers/: Controllers to handle incoming requests.
 middlewares/: Middleware functions for the Express server.
